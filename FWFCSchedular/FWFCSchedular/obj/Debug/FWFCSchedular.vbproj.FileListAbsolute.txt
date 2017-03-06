@@ -1,0 +1,3 @@
+c:\users\pat\documents\visual studio 2013\Projects\FWFCSchedular\FWFCSchedular\bin\Debug\FWFCSchedular.exe.config
+c:\users\pat\documents\visual studio 2013\Projects\FWFCSchedular\FWFCSchedular\obj\Debug\FWFCSchedular.Resources.resources
+c:\users\pat\documents\visual studio 2013\Projects\FWFCSchedular\FWFCSchedular\obj\Debug\FWFCSchedular.vbproj.GenerateResource.Cache
